@@ -1,0 +1,15 @@
+Minecraft Server in Colab
+Changelog:
+v4.0
+-Added support for a WebUI to access console from any device
+-Reduced a lot of steps
+-Made setup alot simpler
+-Many changes in code to improve server performance
+-Easier way to switch versions
+-Updated Java
+-Option to change ngrok server region
+-Cleanup steps not needed anymore
+-Once setup the server can be run with one click
+-Added more complete instructions
+-Option to upload and unzip your own server files
+-Option to change timezone to get correct timestamps in console/logs
