@@ -1,3 +1,6 @@
+NOTE: THIS REPO HAS BEEN ARCHIVED. DO NOT ATTEMPT TO USE THIS SINCE PARTS OF THIS REPO ARE NOW AGAINST GOOGLE COLAB's TOS.
+
+
 # Minecraft Server in Google Colabratory
 check releases for latest version
 dm me on discord if any questions tester248#0119
